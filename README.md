@@ -1,4 +1,4 @@
-# Weather-App
+# ⛅ Weather App
 &nbsp;&nbsp;&nbsp;&nbsp; It is a landing-page/website where user can click to choose their own current location or enter the name of a city. Once user has pressed enter or clicked on the location button, the weather details pertaining to that city will show up in a neat format. Appropriate errors will be displayed if input is incorrect or geolocation of user is not allowed.
 
 ## Deployment
@@ -19,13 +19,13 @@ Check out the weather app website here --> Demo: [Weather App](https://checkoutw
 
 ## Tools Used
 
-This website uses basic **HTML5** and **CSS3** along with **JavaScript** for interactivity. **NodeJS** was used in the backend to hide sensitive data like api-key from the user. Thus on the front-end, if a person were to use the developer tools and access the javascript files, it will not contain any sensitive information. Similarly checking the network tool will not show the api-key as it would had everything  been written on the front-end. This demonstrates the advantage of having a back-end. **Express** framework was used on top of nodeJS to simplify some of the code to make the project more readable and efficient. **Heroku** was used for the web hosting purposes/deploying the app.
+&nbsp;&nbsp;&nbsp;&nbsp; This website uses basic **HTML5** and **CSS3** along with **JavaScript** for interactivity. **NodeJS** was used in the backend to hide sensitive data like api-key from the user. Thus on the front-end, if a person were to use the developer tools and access the javascript files, it will not contain any sensitive information. Similarly, checking the network tool will not show the api-key as it everything is NOT written in the front-end. This demonstrates the advantage of having a back-end. **Express** framework was used on top of nodeJS to simplify some of the code to make the project more readable and efficient. **Heroku** was used for the web hosting purposes/deploying the app.
 
-The website also uses Google Fonts (for styling text) and Box Icons (for icons) and icons8 (for the favicon).
+&nbsp;&nbsp;&nbsp;&nbsp; The website also uses Google Fonts (for styling text) and Box Icons (for icons) and icons8 (for the favicon).
 
 ## Authors
 
   * **Rahul Solaiappan**
 
 ## Acknowledgement
-The website was developed with help from Angela Yu's course on Udemy called "The Complete Web Development Bootcamp" and a YT video from CodingNepal called "Build A Weather App in JS".
+The website was developed with help from Angela Yu's course on Udemy called "The Complete Web Development Bootcamp", a YT video from CodingNepal called "Build A Weather App in JS" and "Hiding API Keys with dotenv" from The Coding Train.

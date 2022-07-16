@@ -28,4 +28,4 @@ Check out the weather app website here --> Demo: [Weather App](https://checkoutw
   * **Rahul Solaiappan**
 
 ## Acknowledgement
-The website was developed with help from Angela Yu's course on Udemy called "The Complete Web Development Bootcamp", a YT video from CodingNepal called "Build A Weather App in JS" and "Hiding API Keys with dotenv" from The Coding Train.
+The website was developed with help from Angela Yu's course on Udemy called "The Complete Web Development Bootcamp", a YouTube videos from CodingNepal called "Build A Weather App in JS" and The Coding Train called "Hiding API Keys with dotenv".
